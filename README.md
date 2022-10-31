@@ -1,2 +1,2 @@
 # Git Bash 
-Branches
+Studying Branches
